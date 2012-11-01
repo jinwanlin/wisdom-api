@@ -1,1 +1,5 @@
-﻿#智慧社区--手机端接口
+﻿###wisdom community-api
+* news
+* user
+* note
+* community
