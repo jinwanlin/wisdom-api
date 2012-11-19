@@ -1,46 +1,21 @@
-##模版
+智慧社区API
 
-* [news](#news) 条件查询新闻列表
-* [news/{id}](#news/{id}) 查看一条新闻详情
+------------------------
+## rails请求
+* [GET]		models			列表
+* [GET]		models/{id} 		详细
+* [POST]	models.json		添加
+* [PUT]		models/{id}.json	更新
+* [DELETE]	models/{id}.json	删除
 
----------------------------------------
-
-<a name="news"></a>
-# news
-<pre>
-
-</pre>
-
-* URL
-<pre>
-<a href="http://61.128.122.51/" target="_blank">http://61.128.122.51/</a>
-</pre>
-
-* HTTP请求方式：
-<pre>
-
-</pre>
-
-* 是否需要登录
-<pre>
-否
-</pre>
-
-* 注意事项
-<pre>
-无
-</pre>
-
+-------------------------
+## 分页请求参数和返回参数
 * 请求参数
 <pre>
 page=1 第几页  
 per_page=50 每页数量
 </pre>
 
-* 返回结果
-<pre>
-
-</pre>
 
 * 返回结果字段说明
 <pre>
@@ -48,9 +23,6 @@ page：当前页码
 per_page:本页最多查询多少条  
 total：总数
 </pre>
-
-
-
 ---------------------------------------
 
 
