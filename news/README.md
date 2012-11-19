@@ -8,6 +8,10 @@
 <pre>
 条件查询新闻列表
 </pre>
+* URL
+<pre>
+<a href="http://61.128.122.51/news.json?page-1&per_page=6" target="_blank">http://61.128.122.51/news.json</a>
+</pre>
 
 * HTTP请求方式：
 <pre>
