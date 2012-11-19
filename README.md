@@ -37,5 +37,5 @@
 ## 美食
 
 ## 优惠
-[foo]: http://example.com/  "Optional Title Here"
+[youhui]: http://example.com/  "Optional Title Here"
 
