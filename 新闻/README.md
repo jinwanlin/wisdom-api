@@ -1,2 +1,2 @@
-* [notes](notes)  查询新闻列表  
-* [notes/{id}](notes/{id})  查看新闻详细
+* [news](news)  查询新闻列表  
+* [news/{id}](news/{id})  查看新闻详细
