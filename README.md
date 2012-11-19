@@ -6,7 +6,7 @@
 * 微博
 	<pre>
 	[notes]()  
-	[notes/{id}]())  
+	[notes/{id}]()  
 	</pre>
 * 社区  
 	<pre>
@@ -29,8 +29,10 @@
 
 ## 新闻
 * 新闻
-	[news](#df) 条件查询新闻列表  
-	[news/{id}]() 查看一条新闻详情  
+	<pre>
+	[news](/news) 条件查询新闻列表  
+	[news/{id}](/news/{id}) 查看一条新闻详情  
+	<pre>
 ## 美食
 
 ## 优惠
