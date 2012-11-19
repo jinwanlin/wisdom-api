@@ -30,10 +30,10 @@ GET
 </pre>
 
 * 请求参数
-```json
+<pre>
 page=1 第几页  
 per_page=50 每页数量
-```
+</pre>
 
 * 返回结果
 ```json
