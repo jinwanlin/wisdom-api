@@ -36,7 +36,7 @@ per_page=50 每页数量
 </pre>
 
 * 返回结果
-<pre>
+```json
 {
     "list": [{
         "content": "\u842168\u9762\u5efa\u6210\u5c0f\u5eb7\u793e\u4f1a\u52aa\u529b\u594b\u6597\u3002",
@@ -84,7 +84,7 @@ per_page=50 每页数量
     "per_page": 6,
     "total": 36
 }
-</pre>
+```
 
 * 返回结果字段说明
 <pre>
@@ -129,7 +129,7 @@ GET
 </pre>
 
 * 返回结果
-<pre>
+```json
 {
     "content": "11\u67085\u65e5\u4e0a\u5348\ufu4eec\u62b5\u8fbe\u9996\u90fd\u673a\u573a\u8d70\u4e0b\u98de\u673a\u3002",
     "created_at": "2012-11-13 07:46:38",
@@ -137,7 +137,7 @@ GET
     "title": "\u65b0\u7586\u51fa\u5e2d\u515a\u7684\u5341\u516b\u5927\u4ee3\u8868\u62b5\u8fbe\u5317\u4eac",
     "image": "http://61.128.122.51/system/attachments/sources/000/000/001/large/d4bed9e6027f1201dcff24.JPG?1352763997"
 }
-</pre>
+```
 
 * 返回结果字段说明
 <pre>
