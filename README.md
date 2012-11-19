@@ -3,14 +3,16 @@
 ## 用户
 	
 ## 社区community
-* 微博  
+* 微博
+	<pre>
 	[notes][]  
 	[notes/{id}][]  
+	</pre>
 * 社区  
-<pre>
-	[communitys]  
+	<pre>
+	[communitys][]  
 	
-</pre>
+	</pre>
 ## 政务
 
 ## 便民
@@ -26,9 +28,10 @@
 ## 医疗
 
 ## 新闻
-	[news][] 条件查询新闻列表  
+	<pre>
+	[news][#fsd] 条件查询新闻列表  
 	[news/{id}][] 查看一条新闻详情  
-
+	</pre>
 ## 美食
 
 ## 优惠
