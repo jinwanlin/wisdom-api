@@ -30,9 +30,11 @@
 ## 新闻
 * 新闻
 	<pre>
-	[news](blob/master/news/news.md) 条件查询新闻列表  
-	[news/{id}](news/{id}) 查看一条新闻详情  
+	[news](#news)条件查询新闻列表  
+	[news/{id}](#news/{id}) 查看一条新闻详情  
 	<pre>
+
+<a name="news"></a>
 
 ## 美食
 
