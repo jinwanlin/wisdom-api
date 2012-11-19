@@ -8,9 +8,10 @@
 <pre>
 条件查询新闻列表
 </pre>
+
 * URL
 <pre>
-<a href="http://61.128.122.51/news.json?page-1&per_page=6" target="_blank">http://61.128.122.51/news.json</a>
+<a href="http://61.128.122.51/news.json" target="_blank">http://61.128.122.51/news.json</a>
 </pre>
 
 * HTTP请求方式：
@@ -20,7 +21,7 @@ GET
 
 * 是否需要登录
 <pre>
-是
+否
 </pre>
 
 * 注意事项
@@ -85,7 +86,12 @@ per_page=50 每页数量
 }
 </pre>
 
-
+* 返回结果字段说明
+<pre>
+page：当前页码  
+per_page:本页最多查询多少条  
+total：总数
+</pre>
 
 ---------------------------------------
 
@@ -93,7 +99,49 @@ per_page=50 每页数量
 
 <a name="news/{id}"></a>
 # news/{id}
-HTTP请求方式：
-	GET  
+<pre>
+查看新闻详细信息
+</pre>
+
+* URL
+<pre>
+<a href="http://61.128.122.51/news/1.json" target="_blank">http://61.128.122.51/news/1.json</a>
+</pre>
+
+* HTTP请求方式：
+<pre>
+GET
+</pre>
+
+* 是否需要登录
+<pre>
+否
+</pre>
+
+* 注意事项
+<pre>
+无
+</pre>
+
+* 请求参数
+<pre>
+无
+</pre>
+
+* 返回结果
+<pre>
+{
+    "content": "11\u67085\u65e5\u4e0a\u5348\ufu4eec\u62b5\u8fbe\u9996\u90fd\u673a\u573a\u8d70\u4e0b\u98de\u673a\u3002",
+    "created_at": "2012-11-13 07:46:38",
+    "id": 1,
+    "title": "\u65b0\u7586\u51fa\u5e2d\u515a\u7684\u5341\u516b\u5927\u4ee3\u8868\u62b5\u8fbe\u5317\u4eac",
+    "image": "http://61.128.122.51/system/attachments/sources/000/000/001/large/d4bed9e6027f1201dcff24.JPG?1352763997"
+}
+</pre>
+
+* 返回结果字段说明
+<pre>
+
+</pre>
 
 

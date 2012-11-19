@@ -8,9 +8,10 @@
 <pre>
 条件查询新闻列表
 </pre>
+
 * URL
 <pre>
-http://61.128.122.51/news.json
+<a href="http://61.128.122.51/news.json" target="_blank">http://61.128.122.51/news.json</a>
 </pre>
 
 * HTTP请求方式：
@@ -20,7 +21,7 @@ GET
 
 * 是否需要登录
 <pre>
-是
+否
 </pre>
 
 * 注意事项
@@ -85,7 +86,12 @@ per_page=50 每页数量
 }
 </pre>
 
-
+* 返回结果字段说明
+<pre>
+page：当前页码  
+per_page:本页最多查询多少条  
+total：总数
+</pre>
 
 ---------------------------------------
 
@@ -93,7 +99,45 @@ per_page=50 每页数量
 
 <a name="news/{id}"></a>
 # news/{id}
-HTTP请求方式：
-	GET  
+<pre>
+查看新闻详细信息
+</pre>
+
+* URL
+<pre>
+<a href="http://61.128.122.51/news/1.json" target="_blank">http://61.128.122.51/news/1.json</a>
+</pre>
+
+* HTTP请求方式：
+<pre>
+GET
+</pre>
+
+* 是否需要登录
+<pre>
+否
+</pre>
+
+* 注意事项
+<pre>
+无
+</pre>
+
+* 请求参数
+<pre>
+无
+</pre>
+
+* 返回结果
+<pre>
+
+</pre>
+
+* 返回结果字段说明
+<pre>
+page：当前页码  
+per_page:本页最多查询多少条  
+total：总数
+</pre>
 
 
