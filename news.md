@@ -5,14 +5,14 @@
 
 <a name="news"></a>
 # news
-```json
+<pre>
 条件查询新闻列表
-```
+</pre>
 
 * URL
-```
+<pre>
 <a href="http://61.128.122.51/news.json" target="_blank">http://61.128.122.51/news.json</a>
-```
+</pre>
 
 * HTTP请求方式：
 <pre>
@@ -30,10 +30,10 @@ GET
 </pre>
 
 * 请求参数
-<pre>
+```json
 page=1 第几页  
 per_page=50 每页数量
-</pre>
+```
 
 * 返回结果
 ```json
