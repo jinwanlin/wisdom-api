@@ -1,5 +1,5 @@
 ﻿#wisdom-api
-
+[优惠][youhui]
 ## 用户
 	
 ## 社区community
@@ -30,11 +30,12 @@
 ## 新闻
 * 新闻
 	<pre>
-	[news](news) 条件查询新闻列表  
+	[news](blob/master/news/news.md) 条件查询新闻列表  
 	[news/{id}](news/{id}) 查看一条新闻详情  
 	<pre>
 
 ## 美食
 
 ## 优惠
+[foo]: http://example.com/  "Optional Title Here"
 
