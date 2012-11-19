@@ -3,10 +3,12 @@
 ## 用户
 	
 ## 社区community
+[base]: https://github.com/jinwanlin/wisdom-api/blob/master/
+
 * 微博
 	<pre>
-	[notes]()  
-	[notes/{id}]()  
+	[notes]([base]notes)  
+	[notes/{id}]([base]notes/{id})  
 	</pre>
 * 社区  
 	<pre>
@@ -31,7 +33,7 @@
 * 新闻
 	<pre>
 	[news](#news)条件查询新闻列表  
-	[news/{id}](#news/{id}) 查看一条新闻详情  
+	[news/{id}](#news/{id}) 查看一条新闻详情
 	<pre>
 
 
