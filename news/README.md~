@@ -1,4 +1,4 @@
-* [news](#news)条件查询新闻列表  
+* [news](#news)
 * [news/{id}](#news/{id}) 查看一条新闻详情
 
 
@@ -7,6 +7,22 @@
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 <a name="news"></a>
+# news
+
+	条件查询新闻列表  
+HTTP请求方式：
+	GET
+
+
+
+
+<br /><br /><br /><br /><br /><br />
+
+
 
 <a name="news/{id}"></a>
+# news/{id}
+HTTP请求方式：
+	GET  
+
 
