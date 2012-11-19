@@ -1,10 +1,7 @@
-* [news](#news)
+* [news](#news) 条件查询新闻列表
 * [news/{id}](#news/{id}) 查看一条新闻详情
 
-
-
-
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+---------------------------------------
 
 <a name="news"></a>
 # news
@@ -29,7 +26,8 @@ GET
 
 * 请求参数
 <pre>
-	  
+page=1 第几页  
+per_page=50 每页数量
 </pre>
 
 * 返回结果
@@ -91,7 +89,7 @@ GET
 
 
 
-<br /><br /><br /><br /><br /><br />
+---------------------------------------
 
 
 
