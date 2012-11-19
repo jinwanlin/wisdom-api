@@ -8,13 +8,25 @@
 
 <a name="news"></a>
 # news
-	条件查询新闻列表  
+<pre>
+条件查询新闻列表
+</pre>
+
 * HTTP请求方式：
-	GET  
+<pre>
+GET
+</pre>
+
 * 是否需要登录
-	是  
+<pre>
+是
+</pre>
+
 * 注意事项
-	无  
+<pre>
+无
+</pre>
+
 * 请求参数
 <pre>
 	  
