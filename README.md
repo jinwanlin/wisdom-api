@@ -1,6 +1,6 @@
 智慧社区API  
 
-[新闻列表](jinwanlin/wisdom-api/blob/master/news/list.md)  
+[新闻列表](/jinwanlin/wisdom-api/blob/master/news/list.md)  
 [新闻详细](jinwanlin/wisdom-api/blob/master/news/show.md)  
 ------------------------
 ## rails请求
