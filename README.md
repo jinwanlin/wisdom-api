@@ -1,4 +1,5 @@
-智慧社区API  
+智慧社区API
+
 ## 新闻
 * [新闻列表](/jinwanlin/wisdom-api/blob/master/news/list.md)  
 * [新闻详细](/jinwanlin/wisdom-api/blob/master/news/show.md)  
@@ -13,7 +14,7 @@
 * [发表投诉建议]()
 
 ## 便民
- 该应用手机端嵌入网页, 平台提供URL, 无数据接口
+  该应用手机端嵌入网页, 平台提供URL, 无数据接口
 * [便民](http://61.128.122.51/hotline.mobile)
 * [周边](http://61.128.122.51/merchants.mobile)
 * [家政](http://61.128.122.51/houses.mobile)
