@@ -1,5 +1,4 @@
-
-# news/{id}
+### news/{id}
 <pre>
 查看新闻详细信息
 </pre>
