@@ -1,11 +1,11 @@
-### users/{id}
+### accounts/{id} 
 <pre>
 更新用户信息
 </pre>
 
 * URL
 <pre>
-<a href="http://61.128.122.51/users/1.json" target="_blank">http://61.128.122.51/users/1.json</a>
+<a href="http://61.128.122.51/accounts/1.json" target="_blank">http://61.128.122.51/accounts/1.json</a>
 </pre>
 
 * HTTP请求方式：
@@ -25,7 +25,8 @@ PUT
 
 * 请求参数
 <pre>
-[可选] community_id: 社区ID
+[必须] authenticity_token
+[可选] user[community_id]: 社区ID
 </pre>
 
 * 返回结果
