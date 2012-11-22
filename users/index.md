@@ -25,6 +25,7 @@ GET
 
 * 请求参数
 <pre>
+[必须] authenticity_token: 登录验证token
 [可选] page=1 默认第1页  
 [可选] per_page=50 默认每页50条  
 [可选] community_id: 社区ID, 必须
