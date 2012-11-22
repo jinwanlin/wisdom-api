@@ -32,7 +32,7 @@
 * [医院详细](/jinwanlin/wisdom-api/blob/master/hospitals/show.md)
 * [社区卫生站列表](/jinwanlin/wisdom-api/blob/master/community_health_stations/index.md)
 * [社区卫生长详细](/jinwanlin/wisdom-api/blob/master/community_health_stations/show.md)
-* [专家列表](/jinwanlin/wisdom-api/blob/master/doctors/show.md)
+* [专家列表](/jinwanlin/wisdom-api/blob/master/doctors/index.md)
 * [专家详细](/jinwanlin/wisdom-api/blob/master/doctors/show.md)
 
 ## 美食
