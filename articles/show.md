@@ -5,7 +5,7 @@
 
 * URL
 <pre>
-<http://61.128.122.51/news/1.json>
+<a href="http://61.128.122.51/news.json" target="_blank">http://61.128.122.51/news.json</a>
 </pre>
 
 * HTTP请求方式：
@@ -30,7 +30,7 @@ GET
 
 * 返回结果
 ```json
-
+{}
 ```
 
 * 返回结果字段说明

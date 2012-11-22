@@ -9,8 +9,8 @@
 * [新闻详细](/jinwanlin/wisdom-api/blob/master/news/show.md)
 
 ## 社区
-* [社区列表](/jinwanlin/wisdom-api/blob/master/communitys/index.md)
-* [社区详细](/jinwanlin/wisdom-api/blob/master/communitys/show.md)
+* [社区列表](/jinwanlin/wisdom-api/blob/master/communities/index.md)
+* [社区详细](/jinwanlin/wisdom-api/blob/master/communities/show.md)
 * [社区相册列表](/jinwanlin/wisdom-api/blob/master/notes/photos.md)
 * [社区微博列表](/jinwanlin/wisdom-api/blob/master/notes/index.md)
 * [发微博](/jinwanlin/wisdom-api/blob/master/notes/create.md)
