@@ -5,7 +5,7 @@
 
 * URL
 <pre>
-<a href="http://61.128.122.51/users/login.json" target="_blank">http://61.128.122.51/users/login.json</a>
+<a href="http://61.128.122.51/login.json" target="_blank">http://61.128.122.51/login.json</a>
 </pre>
 
 * HTTP请求方式：
