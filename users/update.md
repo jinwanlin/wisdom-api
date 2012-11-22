@@ -1,21 +1,21 @@
-### news/{id}
+### users/{id}
 <pre>
-查看详细信息
+更新用户信息
 </pre>
 
 * URL
 <pre>
-<a href="http://61.128.122.51/news.json" target="_blank">http://61.128.122.51/news.json</a>
+<a href="http://61.128.122.51/users/1.json" target="_blank">http://61.128.122.51/users/1.json</a>
 </pre>
 
 * HTTP请求方式：
 <pre>
-GET
+PUT
 </pre>
 
 * 是否需要登录
 <pre>
-否
+是
 </pre>
 
 * 注意事项
@@ -25,12 +25,14 @@ GET
 
 * 请求参数
 <pre>
-无
+[可选] community_id: 社区ID
 </pre>
 
 * 返回结果
 ```json
-{}
+{
+  "community_id" : 1
+}
 ```
 
 * 返回结果字段说明
