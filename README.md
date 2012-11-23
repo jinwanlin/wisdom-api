@@ -16,7 +16,7 @@
 * [发微博](/jinwanlin/wisdom-api/blob/master/phone/notes/create.md)
 
 ## 政务
-* [政策法规列表](/jinwanlin/wisdom-api/blob/master/phone/knowledges/index.md)
+* [政策法规列表](/jinwanlin/wisdom-api/blob/master/phone/repositories/index.md)
 
 ## 便民
   该应用手机端嵌入网页, 平台提供URL, 无数据接口
