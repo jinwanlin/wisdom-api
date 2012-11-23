@@ -1,6 +1,6 @@
 ### community_health_stations/{id}
 <pre>
-查看详细信息
+查看社区卫生服务站详细信息
 </pre>
 
 * URL
