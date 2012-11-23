@@ -1,21 +1,21 @@
-### news/{id}
+### notes
 <pre>
-查看详细信息
+发表微博
 </pre>
 
 * URL
 <pre>
-<a href="http://61.128.122.51/news.json" target="_blank">http://61.128.122.51/news.json</a>
+<a href="http://61.128.122.51/notes.json" target="_blank">http://61.128.122.51/notes.json</a>
 </pre>
 
 * HTTP请求方式：
 <pre>
-GET
+POST
 </pre>
 
 * 是否需要登录
 <pre>
-否
+是
 </pre>
 
 * 注意事项
@@ -25,12 +25,16 @@ GET
 
 * 请求参数
 <pre>
-无
+[必须] authenticity_token: 用户唯一标识token
+[必须] note[content]: 微博内容
+[可选] attachment: 微博图片
 </pre>
 
 * 返回结果
 ```json
-{}
+{
+    "id":13
+}
 ```
 
 * 返回结果字段说明
